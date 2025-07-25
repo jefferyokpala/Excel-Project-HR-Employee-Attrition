@@ -10,7 +10,7 @@ To find the characteristics of employees that make them likely to exit the compa
 
 ## Data Source
 
-I obtained the dataset of a company’s HR Employee Attrition on Kaggle, and it can be found here. It contains 35 columns and 1,470 rows detailing the characteristics of the employees in the company. The analysis aims to identify key characteristics of employees that indicate a high likelihood of their leaving the company.
+I obtained the dataset of a company’s HR Employee Attrition on Kaggle, and it can be found [here](https://www.kaggle.com/datasets/patelprashant/employee-attrition). It contains 35 columns and 1,470 rows detailing the characteristics of the employees in the company. The analysis aims to identify key characteristics of employees that indicate a high likelihood of their leaving the company.
 
 ## Tools
 
