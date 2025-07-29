@@ -44,7 +44,7 @@ Microsoft Excel
 
 ![image alt](https://github.com/jefferyokpala/Excel-Project-HR-Employee-Attrition/blob/main/images/image2.png?raw=true)
 
-* Given my reluctance to draw solid conclusions from the attrition patterns by department, I decided to analyze the attrition rate by job level and created a pivot table and line chart to visualize that data. I observed that attrition is most common amongst people who are at level 1 and relatively low in other levels. This may be due to entry-level employees leaving to start their careers at other companies they believe are better for their career development. However, the attrition rate for employees in level 3 ticked up a bit, suggesting that people in the category may be looking for substantial pay raises by leaving for another company.
+* Given my reluctance to draw solid conclusions from the attrition patterns by department, I decided to analyze the attrition rate by job level and created a pivot table and line chart to visualize that data. I observed that attrition is most common amongst people who are at level 1 and relatively low in other levels. This may be due to entry-level employees leaving to other companies they believe are better for their career development or job hopping for better pay. However, the attrition rate for employees in level 3 ticked up a bit, suggesting that people in that category may be looking for substantial pay raises by leaving for another company.
 
 ![image alt](https://github.com/jefferyokpala/Excel-Project-HR-Employee-Attrition/blob/main/images/image8.png?raw=true)
 
