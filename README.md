@@ -26,7 +26,7 @@ Microsoft Excel
 
 * I deleted the EmployeeCount column because it only contained “1” as values, and that added no value to the dataset.
 
-* After cleaning the dataset, I added a new sheet to the Excel Workbook to create pivot tables. I created a table and bar that details employee attrition by job satisfaction. Those who expressed low job satisfaction were most likely to leave the company. This likelihood was reduced the more employees there were.
+* After cleaning the dataset, I added a new sheet to the Excel Workbook to create pivot tables. I created a table and bar chart that details employee attrition by job satisfaction. Those who expressed low job satisfaction were most likely to leave the company. This likelihood was reduced the more employees there were.
 
 ![image alt](https://github.com/jefferyokpala/Excel-Project-HR-Employee-Attrition/blob/main/images/image6.png?raw=true)
 
